@@ -1,11 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a09a6ae-5170-4a3c-beda-1aefce027323" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bchBeFj1d4DiaFCjqetkwDllvQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EmuPBk" />
     <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a09a6ae-5170-4a3c-beda-1aefce027323" name="Default Changelist" comment="" />
+      <created>1588937154806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588937154806</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added data files for EmuPBk">
+      <created>1588937194551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588937194551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added data files for EmuPBk" />
+    <option name="LAST_COMMIT_MESSAGE" value="added data files for EmuPBk" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="0" width="912" height="722" key="CommitChangelistDialog2" timestamp="1588937194366">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="222" y="0" width="912" height="722" key="CommitChangelistDialog2/0.0.1366.724@0.0.1366.724" timestamp="1588937194366" />
+    <state x="466" y="120" width="424" height="482" key="FileChooserDialogImpl" timestamp="1589129001048">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="466" y="120" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.724@0.0.1366.724" timestamp="1589129001048" />
+    <state x="278" y="98" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1588937209195">
+      <screen x="0" y="0" width="1366" height="724" />
+    </state>
+    <state x="278" y="98" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1366.724@0.0.1366.724" timestamp="1588937209195" />
   </component>
   <component name="hg4idea.settings">
     <option name="CHECK_INCOMING_OUTGOING" value="true" />
